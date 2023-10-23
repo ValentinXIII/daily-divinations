@@ -1,0 +1,21 @@
+C:\Users\Visualstudio\Magic8BallGame\bin\Debug\Magic8BallGame.exe.config
+C:\Users\Visualstudio\Magic8BallGame\bin\Debug\Magic8BallGame.exe
+C:\Users\Visualstudio\Magic8BallGame\bin\Debug\Magic8BallGame.pdb
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.AssemblyReference.cache
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.MagicEightBallGame.resources
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.Properties.Resources.resources
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.GenerateResource.cache
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.CoreCompileInputs.cache
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.exe
+C:\Users\Visualstudio\Magic8BallGame\obj\Debug\Magic8BallGame.pdb
+C:\Users\Visual Studio\Magic8BallGame\bin\Debug\Magic8BallGame.exe.config
+C:\Users\Visual Studio\Magic8BallGame\bin\Debug\Magic8BallGame.exe
+C:\Users\Visual Studio\Magic8BallGame\bin\Debug\Magic8BallGame.pdb
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.AssemblyReference.cache
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.MagicEightBallGame.resources
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.Properties.Resources.resources
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.GenerateResource.cache
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.csproj.CoreCompileInputs.cache
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.exe
+C:\Users\Visual Studio\Magic8BallGame\obj\Debug\Magic8BallGame.pdb
